@@ -43,13 +43,13 @@
 				<a class="btn btn-default btn-block" href="index.php" role="button">Accueil</a>
 			</div>
 			<div class="col-md-2">
-				<a class="btn btn-default btn-block" href="#" role="button">prestations</a>
+				<a class="btn btn-default btn-block" href="#" role="button">Prestations</a>
 			</div>
 			<div class="col-md-2">
 				<a class="btn btn-default btn-block" href="consultant-seo.php" role="button">SEO</a>
 			</div>
 			<div class="col-md-2">
-				<a class="btn btn-default btn-block" href="cours.php" role="button">Cours</a>
+				<a class="btn btn-default btn-block" href="cours-avant.php" role="button">Cours</a>
 			</div>
 			<div class="col-md-2">
 				<a class="btn btn-default btn-block" href="#" role="button">Contact</a>
