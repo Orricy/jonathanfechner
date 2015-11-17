@@ -6,27 +6,27 @@
 	<meta charset="utf-8">
 	<meta name="DC.title" content="Jonathan Fechner">
 	<meta name="DC.creator" content="Jonathan Fechner">
-	<meta name="DC.subject" content="mots clefs" />
-	<meta name="DC.description" content="description du site" />
-	<meta name="DC.publisher" content="Auteur">
-	<meta name="DC.contributor" content="Contributeur">
-	<meta name="DC.date" content="date de création">
+	<meta name="DC.subject" content="referencement google, strategie de positionnement, consultant, gestion de projet, ingénierie multimédia, expertise, site internet">
+	<meta name="DC.description" content="Site de Jonathan Fechner expert en referencement et positionnement de site internet">
+	<meta name="DC.publisher" content="Damien Duvernois,Gauthier Flichy, Paul Dabin">
+	<meta name="DC.contributor" content="Shana Enkaoua, Rami El Khodry, Niki Gharabaghi">
+	<meta name="DC.date" content="17/11/2015">
 	<meta name="DC.type" content="type de site">
 	<meta name="DC.format" content="website">
 	<meta name="DC.identifier" content="url du site">
 	<meta name="DC.language" content="fr-FR">
 	<meta name="DC.coverage" content="World">
-	<meta name="DC.rights" content="&copy; nom de l'entreprise ou de l'auteur">
+	<meta name="DC.rights" content="&copy; Jonathan Fechner">
 	<!-- END Dublin Core -->
 	<!-- Referencement -->
-	<meta name="description" content="description du site">
-	<meta name="keywords" content="mots clefs">
-	<meta name="author" content="auteur">
+	<meta name="description" content="Site de Jonathan Fechner expert en referencement et positionnement de site internet">
+	<meta name="keywords" content="referencement google, strategie de positionnement, consultant, gestion de projet, ingénierie multimédia, expertise, site internet">
+	<meta name="author" content="Jonathan Fechner">
 	<meta name="robots" content="index">
 	<meta name="Indentifier-URL" content="url du site">
 	<!-- END Référencement -->
 	<!-- Open Graph -->
-	<meta property="og:title" content="titre du site">
+	<meta property="og:title" content="Jonathan Fechner">
 	<meta property="og:type" content="website">
 	<meta property="og:url" content="url du site">
 	<meta property="og:image" content="url de l'image à afficher">

@@ -1,27 +1,35 @@
 #containCarousel {
   padding: 0; }
 
-.topMargin {
-  margin-top: 2%; }
-
-header h2 {
-  font-size: 1.5em; }
-header .socialIcon {
-  color: grey;
-  font-size: 4em;
-  margin-top: 70%; }
-header .socialIcon:hover {
-  color: darkgrey; }
+header {
+  background-color: #5397a1; }
+  header h1 {
+    font-weight: bold;
+    color: white; }
+  header h2 {
+    color: white;
+    font-size: 1.5em; }
+  header .topMargin {
+    padding-top: 1%; }
+  header .socialIcon {
+    color: #77EBDA;
+    font-size: 4em;
+    margin-top: 70%; }
+  header .socialIcon:hover {
+    color: #23DBBF; }
 
 content article {
   margin-bottom: 2%; }
+content #fullHeigth {
+  margin-bottom: 9%; }
 content .presentation {
   margin-top: 2%;
   margin-bottom: 2%; }
 
 footer {
-  margin-top: 3%;
-  background-color: #444b4f;
+  margin-top: 3.1%;
+  padding-bottom: 0.3%;
+  background-color: #294b50;
   color: white; }
   footer h4 {
     font-size: 1.8em; }
@@ -40,11 +48,11 @@ footer {
   footer .btn-default:hover {
     background-color: #fff; }
   footer .socialIcon {
-    color: grey;
+    color: #77EBDA;
     font-size: 3em;
     margin-top: 20%; }
   footer .socialIcon:hover {
-    color: darkgrey; }
+    color: #23DBBF; }
 
 .navigationTitle {
   margin: 1% 0%; }

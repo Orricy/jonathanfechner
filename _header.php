@@ -46,7 +46,7 @@
 				<a class="btn btn-default btn-block" href="prestations.php" role="button">Prestations</a>
 			</div>
 			<div class="col-md-2">
-				<a class="btn btn-default btn-block" href="consultant-seo.php" role="button">SEO</a>
+				<a class="btn btn-default btn-block" href="consultant-seo.php" role="button">Referencement</a>
 			</div>
 			<div class="col-md-2">
 				<a class="btn btn-default btn-block" href="cours-avant.php" role="button">Cours</a>
