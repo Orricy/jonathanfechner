@@ -1,24 +1,45 @@
 #containCarousel{
 	padding: 0;
 }
-.topMargin{
-	margin-top: 2%;
-}
+
 header{
+	background-color: #5397a1;
+	h1{
+		font-weight: bold;
+		color: white;
+	}
 	h2{
+		color: white;
 		font-size: 1.5em;
 	}
+	.topMargin{
+		padding-top: 1%;
+	}
 	.socialIcon{
-		color: grey;
+		color: #77EBDA;
 		font-size: 4em;
 		margin-top: 70%;
 	}
 	.socialIcon:hover{
-		color: darkgrey;
+		color: #23DBBF;
+	}
+}
+content{
+	article{
+		margin-bottom: 2%;
+	}
+	#fullHeigth{
+		margin-bottom: 9%;
+	}
+	.presentation{
+		margin-top: 2%;
+		margin-bottom: 2%;
 	}
 }
 footer{
-	background-color: #444b4f;
+	margin-top: 3.1%;
+	padding-bottom: 0.3%;
+	background-color: #294b50;
 	color: white;
 	h4{
 		font-size: 1.8em;
@@ -42,12 +63,12 @@ footer{
 		background-color: #fff;
 	}
 	.socialIcon{
-		color: grey;
-		font-size: 3.5em;
+		color: #77EBDA;
+		font-size: 3em;
 		margin-top: 20%;
 	}
 	.socialIcon:hover{
-		color: darkgrey;
+		color: #23DBBF;
 	}
 }
 .navigationTitle{

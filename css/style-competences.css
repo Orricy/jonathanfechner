@@ -18,14 +18,16 @@
 
 }
 
-#competences h1 {
+#competences h2 {
 	color: white;
+	font-size: 46px;
 	margin-top: 50px;
 	margin-bottom: 50px;
 }
 
 .prestations {
 	margin-top: 80px;
+	margin-bottom: 100px;
 }
 
 .prestation {

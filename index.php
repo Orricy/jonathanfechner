@@ -6,27 +6,27 @@
 	<meta charset="utf-8">
 	<meta name="DC.title" content="Jonathan Fechner">
 	<meta name="DC.creator" content="Jonathan Fechner">
-	<meta name="DC.subject" content="mots clefs" />
-	<meta name="DC.description" content="description du site" />
-	<meta name="DC.publisher" content="Auteur">
-	<meta name="DC.contributor" content="Contributeur">
-	<meta name="DC.date" content="date de création">
+	<meta name="DC.subject" content="referencement google, strategie de positionnement, consultant, gestion de projet, ingénierie multimédia, expertise, site internet">
+	<meta name="DC.description" content="Site de Jonathan Fechner expert en referencement et positionnement de site internet">
+	<meta name="DC.publisher" content="Damien Duvernois,Gauthier Flichy, Paul Dabin">
+	<meta name="DC.contributor" content="Shana Enkaoua, Rami El Khodry, Niki Gharabaghi">
+	<meta name="DC.date" content="17/11/2015">
 	<meta name="DC.type" content="type de site">
 	<meta name="DC.format" content="website">
 	<meta name="DC.identifier" content="url du site">
 	<meta name="DC.language" content="fr-FR">
 	<meta name="DC.coverage" content="World">
-	<meta name="DC.rights" content="&copy; nom de l'entreprise ou de l'auteur">
+	<meta name="DC.rights" content="&copy; Jonathan Fechner">
 	<!-- END Dublin Core -->
 	<!-- Referencement -->
-	<meta name="description" content="description du site">
-	<meta name="keywords" content="mots clefs">
-	<meta name="author" content="auteur">
+	<meta name="description" content="Site de Jonathan Fechner expert en referencement et positionnement de site internet">
+	<meta name="keywords" content="referencement google, strategie de positionnement, consultant, gestion de projet, ingénierie multimédia, expertise, site internet">
+	<meta name="author" content="Jonathan Fechner">
 	<meta name="robots" content="index">
 	<meta name="Indentifier-URL" content="url du site">
 	<!-- END Référencement -->
 	<!-- Open Graph -->
-	<meta property="og:title" content="titre du site">
+	<meta property="og:title" content="Jonathan Fechner">
 	<meta property="og:type" content="website">
 	<meta property="og:url" content="url du site">
 	<meta property="og:image" content="url de l'image à afficher">
@@ -84,16 +84,17 @@
 			  	</a>
 			</div>
 		</div>
-		<div class="container">
+		<div class="container presentation">
 			<div class="row">
 				<div class="col-md-12 col-md-offset-0">
-					<article class="col-md-6">
-						<h3>iiiiiiiii</h3>
-						<p>Look, just because I don't be givin' no man a foot massage don't make it right for Marsellus to throw Antwone into a glass motherfuckin' house, fuckin' up the way the nigger talks. Motherfucker do that shit to me, he better paralyze my ass, 'cause I'll kill the motherfucker, know what I'm sayin'?</p>
+					<article class="col-md-4">
+						<img src="image/placeholder.png" alt="logo jonathan fechner" title="accueil" class="img-responsive">
 					</article>
-					<article class="col-md-6">
-						<h3>ccccccccc</h3>
-						<p>Look, just because I don't be givin' no man a foot massage don't make it right for Marsellus to throw Antwone into a glass motherfuckin' house, fuckin' up the way the nigger talks. Motherfucker do that shit to me, he better paralyze my ass, 'cause I'll kill the motherfucker, know what I'm sayin'?</p>
+					<article class="col-md-8">
+						<h3>parcours professionnel</h3>
+						<p>Jonathan Fechner est Consultant Indépendant Digital spécialiste des techniques de l'information et de la communication. Il trouve des solutions multimédia pour les entreprises. Son intervention sur vos projets et avant-projets permet de vous apporter des réponses claires, du cahier des charges fonctionnel au succès de l'opération.
+
+						Vous êtes une entreprise ou un porteur de projet, grâce à son réseau de plus de 200 professionnels reconnus, Jonathan Fechner peut constituer une équipe dédiée pour garantir le succès de votre projet. Opération de communication, création de site web, 3D, print, ou vidéo, faire appel à Jonathan Fechner c’est gagner un temps précieux et la certitude d’atteindre vos objectifs.</p>
 					</article>
 				</div>
 			</div>
