@@ -13,7 +13,14 @@ header .socialIcon {
 header .socialIcon:hover {
   color: darkgrey; }
 
+content article {
+  margin-bottom: 2%; }
+content .presentation {
+  margin-top: 2%;
+  margin-bottom: 2%; }
+
 footer {
+  margin-top: 3%;
   background-color: #444b4f;
   color: white; }
   footer h4 {
@@ -34,7 +41,7 @@ footer {
     background-color: #fff; }
   footer .socialIcon {
     color: grey;
-    font-size: 3.5em;
+    font-size: 3em;
     margin-top: 20%; }
   footer .socialIcon:hover {
     color: darkgrey; }
