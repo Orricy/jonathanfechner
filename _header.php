@@ -40,13 +40,13 @@
 		</div>
 		<div class="row navigationTitle">
 			<div class="col-md-2 col-md-offset-1">
-				<a class="btn btn-default btn-block" href="#" role="button">Accueil</a>
+				<a class="btn btn-default btn-block" href="index.php" role="button">Accueil</a>
 			</div>
 			<div class="col-md-2">
 				<a class="btn btn-default btn-block" href="#" role="button">Accueil</a>
 			</div>
 			<div class="col-md-2">
-				<a class="btn btn-default btn-block" href="#" role="button">Accueil</a>
+				<a class="btn btn-default btn-block" href="consultant-seo.php" role="button">SEO</a>
 			</div>
 			<div class="col-md-2">
 				<a class="btn btn-default btn-block" href="#" role="button">Accueil</a>
