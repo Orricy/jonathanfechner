@@ -36,7 +36,7 @@
 	réseaux sociaux">
 	<!-- END Open Graph-->
 	<link rel="stylesheet" type="text/css" href="lib/bootstrap/css/bootstrap.min.css">
-	<link rel="stylesheet" type="text/css" href="#">
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
 	<link rel="stylesheet" type="text/css" href="css/style-competences.css">
 	
 </head>
@@ -52,6 +52,7 @@
 					<div class="container">
 						<div class="text-center"><h1>Prestations</h1></div>
 					</div>
+					<img src="image/wallet.png" class="img-responsive wallet" alt="wallet">
 				</div>
 
 				<div class="container">
@@ -59,35 +60,50 @@
 						<div class="col-md-4">	
 							<div class="prestation text-center">
 								<h2>Site Web</h2>
-								<div class="caption">
-									<span><i class="fa fa-search-plus fa-3x"></i></span>
-								</div>
+									<div class="caption">
+										<i class="fa fa-search-plus fa-3x"></i>
+									</div>
 							</div>
 							
 						</div>
 						<div class="col-md-4">	
 							<div class="prestation text-center">
 								<h2>SEO</h2>
+									<div class="caption">
+										<i class="fa fa-search-plus fa-3x"></i>
+									</div>
 							</div>
 						</div>
 						<div class="col-md-4">
 							<div class="prestation text-center">
 								<h2>Vidéo</h2>
+									<div class="caption">
+										<i class="fa fa-search-plus fa-3x"></i>
+									</div>
 							</div>
 						</div>
 						<div class="col-md-4">
 							<div class="prestation text-center">
 								<h2>3D</h2>
+									<div class="caption">
+										<i class="fa fa-search-plus fa-3x"></i>
+									</div>
 							</div>
 						</div>
 						<div class="col-md-4">
 							<div class="prestation text-center">
 								<h2>Graphisme</h2>
+									<div class="caption">
+										<i class="fa fa-search-plus fa-3x"></i>
+									</div>
 							</div>
 						</div>
 						<div class="col-md-4">
 							<div class="prestation text-center">
 								<h2>Propriété Intelectuelle</h2>
+									<div class="caption">
+										<i class="fa fa-search-plus fa-3x"></i>
+									</div>
 							</div>
 						</div>
 					</div>
@@ -97,9 +113,30 @@
 	</main>
 	<footer>
 		<?php 
-			//require 'footer.php';
+			require '_footer.php';
 		?>	
 	</footer>
+
+	<!-- Modals -->
+
+	<div class="modal fade" id="prestationmodal1" tabindex="-1" role="dialog">
+	  <div class="modal-dialog" role="document">
+	    <div class="modal-content">
+	      <div class="modal-header">
+	        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+	        <h4 class="modal-title" id="myModalLabel">Modal title</h4>
+	      </div>
+	      <div class="modal-body">
+	        ...
+	      </div>
+	      <div class="modal-footer">
+	        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+	        <button type="button" class="btn btn-primary">Save changes</button>
+	      </div>
+	    </div>
+	  </div>
+	</div>
+
 </body>
 </html>
 
