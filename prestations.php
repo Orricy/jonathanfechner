@@ -51,7 +51,7 @@
 		<div class="container-fluid">
 				<div class="row  title">
 					<div class="container">
-						<div class="text-center"><h1>Prestations</h1></div>
+						<div class="text-center"><h2>Prestations</h2></div>
 					</div>
 				</div>
 
