@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="fr-FR">
 <head>
 	<title>Jonathan Fechner - accueil</title>
 	<!-- Dublin Core -->
@@ -11,7 +11,7 @@
 	<meta name="DC.publisher" content="Damien Duvernois,Gauthier Flichy, Paul Dabin">
 	<meta name="DC.contributor" content="Shana Enkaoua, Rami El Khodry, Niki Gharabaghi">
 	<meta name="DC.date" content="17/11/2015">
-	<meta name="DC.type" content="type de site">
+	<meta name="DC.type" content="SEO">
 	<meta name="DC.format" content="website">
 	<meta name="DC.identifier" content="url du site">
 	<meta name="DC.language" content="fr-FR">
@@ -30,7 +30,7 @@
 	<meta property="og:type" content="website">
 	<meta property="og:url" content="url du site">
 	<meta property="og:image" content="url de l'image à afficher">
-	<meta property="og:site_name" content="titre du site">
+	<meta property="og:site_name" content="titre du site  Jonathan Fechner">
 	<meta property="og:description" content="texte de description à afficher sur les
 	réseaux sociaux">
 	<!-- END Open Graph-->
