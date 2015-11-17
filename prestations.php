@@ -36,7 +36,7 @@
 	réseaux sociaux">
 	<!-- END Open Graph-->
 	<link rel="stylesheet" type="text/css" href="lib/bootstrap/css/bootstrap.min.css">
-	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
+	<link rel="stylesheet" type="text/css" href="lib/font-awesome.min.css">
 	<link rel="stylesheet" type="text/css" href="css/style-competences.css">
 	<link rel="stylesheet" type="text/css" href="css/style.css">
 	
