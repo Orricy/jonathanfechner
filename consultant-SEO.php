@@ -38,69 +38,43 @@
 	<!-- END Open Graph-->
 	<link rel="stylesheet" type="text/css" href="lib/bootstrap/css/bootstrap.min.css">
     <link rel="stylesheet" type="text/css" href="css/style-seo.css">
+    <link rel="stylesheet" type="text/css" href="css/style.css">
 	
 </head>
 <body>
 	<header>
 		<?php
-			//require 'header.php';
+			require '_header.php';
 		?>
 	</header>
     
     
-    <div class="container">
+   
+    
+    <div class="container-fluid">
         
-        <div class="col-md-8 col-md-offset-2">
+        <div class="col-md-8 col-md-offset-1">
                        
             <div class="row">
-                   
-                <h1>Consultant SEO, mais encore?</h1>
-                 
-                <div class="infos">
-                        
-                   <h2>Qu'est-ce que le SEO?</h2>
-                    
+                
+                <div id="cercle" class="col-md-offset-1" >
+                
                     <p>
-                        Le SEO, search engine optimization, est le fait d'optimiser le contenu d'un site internet dans le but de correspondre au maximum aux critères mis en place par les moteurs de recherche. On parle alors de référencement et de positionnement.
-                    
+                        sazfazvavaevaezsazfazvavae
                     </p>
                     
                 </div>
-                
-                 <div class="infos">
-                        
-                   <h2>Pourquoi faire?</h2>
-                     
-                     <p>
-                        Un bon référecement (sur google par exemple) permet d'acquérir une visibilité importante et de grossir son flux de visiteur. Ainsi, c'est un moyen efficace pour développer votre activité et votre renommé.
-                     </p>
-                    
-                </div>
-                
-                 <div class="infos">
-                        
-                   <h2>Mes solutions</h2>
-                     
-                     <p>
-                     
-                     </p>
-                    
-                </div>
-                    
-                   
-            
-            
-            
+                      
             </div>
             
         </div>
         
         
         </div>
-    
+    </div>
 	<footer>
 		<?php 
-			//require 'footer.php';
+			require '_footer.php';
 		?>	
 	</footer>
 </body>
