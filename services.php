@@ -38,12 +38,13 @@
 	<link rel="stylesheet" type="text/css" href="lib/bootstrap/css/bootstrap.min.css">
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
 	<link rel="stylesheet" type="text/css" href="css/style-competences.css">
+	<link rel="stylesheet" type="text/css" href="css/style.css">
 	
 </head>
 <body>
 	<header>
 		<?php
-			//require 'header.php';
+			require '_header.php';
 		?>
 	</header>
 	<main id="competences">
@@ -52,11 +53,9 @@
 					<div class="container">
 						<div class="text-center"><h1>Prestations</h1></div>
 					</div>
-					<img src="image/wallet.png" class="img-responsive wallet" alt="wallet">
 				</div>
 
-				<div class="container">
-					<div class="prestations">
+				<div class="container prestations">
 						<div class="col-md-4">	
 							<div class="prestation text-center">
 								<h2>Site Web</h2>
@@ -64,7 +63,6 @@
 										<i class="fa fa-search-plus fa-3x"></i>
 									</div>
 							</div>
-							
 						</div>
 						<div class="col-md-4">	
 							<div class="prestation text-center">
@@ -106,8 +104,6 @@
 									</div>
 							</div>
 						</div>
-					</div>
-				</div>
 			</div>
 		</div>
 	</main>
