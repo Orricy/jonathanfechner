@@ -35,42 +35,11 @@
 	réseaux sociaux">
 	<!-- END Open Graph-->
 	<link rel="stylesheet" type="text/css" href="lib/bootstrap/css/bootstrap.min.css">
+	<link rel="stylesheet" type="text/css" href="lib/font-awesome.min.css">
 	<link rel="stylesheet" type="text/css" href="css/style.css">
 </head>
 <body>
-	<header>
-		<div class="container topMargin">
-			<div class="row">
-				<div class="col-md-10 col-md-offset-1">
-					<div class="col-md-3">
-						<a href="index.php"><img src="image/placeholder.png" class="img-responsive" alt="logo jonathan fechner" title="accueil"></a>
-					</div>
-					<div class="col-md-9">
-						<h1>Jonathan Fechner</h1>
-						<h2>Consultant – Formateur T.I.C</h2>
-					</div>
-				</div>
-			</div>
-			<div class="row navigationTitle">
-				<div class="col-md-2 col-md-offset-1">
-					<a class="btn btn-default btn-block" href="#" role="button">Accueil</a>
-				</div>
-				<div class="col-md-2">
-					<a class="btn btn-default btn-block" href="#" role="button">Accueil</a>
-				</div>
-				<div class="col-md-2">
-					<a class="btn btn-default btn-block" href="#" role="button">Accueil</a>
-				</div>
-				<div class="col-md-2">
-					<a class="btn btn-default btn-block" href="#" role="button">Accueil</a>
-				</div>
-				<div class="col-md-2">
-					<a class="btn btn-default btn-block" href="#" role="button">Accueil</a>
-				</div>
-			</div>
-		</div>
-	</header>
-
+	<?php require '_header.php';?>
 	<content>
 		<div class="container-fluid" id="containCarousel">
 			<div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
@@ -84,23 +53,23 @@
 			  	<div class="carousel-inner" role="listbox">
 			    	<div class="item active">
 			      		<img src="image/placeholder.png" class="carouselImg" alt="logo jonathan fechner" title="accueil">
-			      		<div class="carousel-caption">
+			      		<article class="carousel-caption">
 			        		<h2>aaaaaaaaaaaaa</h2>
 			        		<p class="text-left">Normally, both your asses would be dead as fucking fried chicken, but you happen to pull this shit while I'm in a transitional period so I don't wanna kill you, I wanna help you. But I can't give you this case, it don't belong to me. Besides, I've already been through too much shit this morning over this case to hand it over to your dumb ass.</p>
 			      			<div class="col-md-4 col-md-offset-4">
 			      				<a class="btn btn-warning btn-block" href="#" role="button">Accueil</a>
 			      			</div>
-			      		</div>
+			      		</article>
 			    	</div>
 			    	<div class="item">
 			      		<img src="image/placeholder.png" class="carouselImg" alt="logo jonathan fechner" title="accueil">
-			      		<div class="carousel-caption">
+			      		<article class="carousel-caption">
 			        		<h2>aaaaaaaaaaaaa</h2>
 			        		<p class="text-left">Normally, both your asses would be dead as fucking fried chicken, but you happen to pull this shit while I'm in a transitional period so I don't wanna kill you, I wanna help you. But I can't give you this case, it don't belong to me. Besides, I've already been through too much shit this morning over this case to hand it over to your dumb ass.</p>
 			      			<div class="col-md-4 col-md-offset-4">
 			      				<a class="btn btn-warning btn-block" href="#" role="button">Accueil</a>
 			      			</div>
-			      		</div>
+			      		</article>
 			    	</div>
 			  	</div>
 
@@ -118,23 +87,18 @@
 		<div class="container">
 			<div class="row">
 				<div class="col-md-12 col-md-offset-0">
-					<div class="col-md-6">
+					<article class="col-md-6">
 						<h3>iiiiiiiii</h3>
 						<p>Look, just because I don't be givin' no man a foot massage don't make it right for Marsellus to throw Antwone into a glass motherfuckin' house, fuckin' up the way the nigger talks. Motherfucker do that shit to me, he better paralyze my ass, 'cause I'll kill the motherfucker, know what I'm sayin'?</p>
-					</div>
-					<div class="col-md-6">
+					</article>
+					<article class="col-md-6">
 						<h3>ccccccccc</h3>
 						<p>Look, just because I don't be givin' no man a foot massage don't make it right for Marsellus to throw Antwone into a glass motherfuckin' house, fuckin' up the way the nigger talks. Motherfucker do that shit to me, he better paralyze my ass, 'cause I'll kill the motherfucker, know what I'm sayin'?</p>
-					</div>
+					</article>
 				</div>
 			</div>
 		</div>
 	</content>
-
-	<footer>
-		<?php
-			require 'footer.php';
-		?>
-	</footer>
+	<?php require '_footer.php';?>
 </body>
 </html>

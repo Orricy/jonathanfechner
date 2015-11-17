@@ -4,6 +4,52 @@
 .topMargin{
 	margin-top: 2%;
 }
+header{
+	h2{
+		font-size: 1.5em;
+	}
+	.socialIcon{
+		color: grey;
+		font-size: 4em;
+		margin-top: 70%;
+	}
+	.socialIcon:hover{
+		color: darkgrey;
+	}
+}
+footer{
+	background-color: #444b4f;
+	color: white;
+	h4{
+		font-size: 1.8em;
+	}
+	a{
+		color: #5bd2db;
+		font-size: 1.2em;
+	}
+	a:hover{
+		color: #469DA3;
+		font-size: 1.2em;
+		text-decoration: none;
+	}
+	.btn-default{
+		font-size: 1.2em;
+		background-color: #5bf2db;
+		border: 0;
+		border-radius: 0;
+	}
+	.btn-default:hover{
+		background-color: #fff;
+	}
+	.socialIcon{
+		color: grey;
+		font-size: 3.5em;
+		margin-top: 20%;
+	}
+	.socialIcon:hover{
+		color: darkgrey;
+	}
+}
 .navigationTitle{
 	margin: 1% 0%;
 }
