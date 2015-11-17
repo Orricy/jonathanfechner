@@ -39,10 +39,7 @@
 	<link rel="stylesheet" type="text/css" href="css/style.css">
 </head>
 <body>
-	<?php 
-	require '_header.php';
-	?>
-
+	<?php require '_header.php';?>
 	<content>
 		<div class="container-fluid" id="containCarousel">
 			<div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
@@ -56,23 +53,23 @@
 			  	<div class="carousel-inner" role="listbox">
 			    	<div class="item active">
 			      		<img src="image/placeholder.png" class="carouselImg" alt="logo jonathan fechner" title="accueil">
-			      		<div class="carousel-caption">
+			      		<article class="carousel-caption">
 			        		<h2>aaaaaaaaaaaaa</h2>
 			        		<p class="text-left">Normally, both your asses would be dead as fucking fried chicken, but you happen to pull this shit while I'm in a transitional period so I don't wanna kill you, I wanna help you. But I can't give you this case, it don't belong to me. Besides, I've already been through too much shit this morning over this case to hand it over to your dumb ass.</p>
 			      			<div class="col-md-4 col-md-offset-4">
 			      				<a class="btn btn-warning btn-block" href="#" role="button">Accueil</a>
 			      			</div>
-			      		</div>
+			      		</article>
 			    	</div>
 			    	<div class="item">
 			      		<img src="image/placeholder.png" class="carouselImg" alt="logo jonathan fechner" title="accueil">
-			      		<div class="carousel-caption">
+			      		<article class="carousel-caption">
 			        		<h2>aaaaaaaaaaaaa</h2>
 			        		<p class="text-left">Normally, both your asses would be dead as fucking fried chicken, but you happen to pull this shit while I'm in a transitional period so I don't wanna kill you, I wanna help you. But I can't give you this case, it don't belong to me. Besides, I've already been through too much shit this morning over this case to hand it over to your dumb ass.</p>
 			      			<div class="col-md-4 col-md-offset-4">
 			      				<a class="btn btn-warning btn-block" href="#" role="button">Accueil</a>
 			      			</div>
-			      		</div>
+			      		</article>
 			    	</div>
 			  	</div>
 
@@ -102,11 +99,6 @@
 			</div>
 		</div>
 	</content>
-
-	<footer>
-		<?php
-			require '_footer.php';
-		?>
-	</footer>
+	<?php require '_footer.php';?>
 </body>
 </html>
