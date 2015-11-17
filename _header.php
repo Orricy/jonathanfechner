@@ -7,28 +7,33 @@
 				<div class="col-md-3">
 					<a href="index.php"><img src="image/placeholder.png" class="img-responsive" alt="logo jonathan fechner" title="accueil"></a>
 				</div>
-				<div class="col-md-5">
+				<div class="col-md-4">
 					<h1>Jonathan Fechner</h1>
 					<h2>Consultant – Formateur T.I.C</h2>
 				</div>
 				<div class="col-md-1">
-					<a href="#">
+					<a href="https://www.facebook.com/sitejonathanfechner">
 					  	<span class="fa fa-facebook-square socialIcon"></span>
 					</a>
 				</div>
 				<div class="col-md-1">
-					<a href="#">
+					<a href="https://www.linkedin.com/in/jonathan-fechner-17924b20">
 					  	<span class="fa fa-linkedin-square socialIcon"></span>
 					</a>
 				</div>
 				<div class="col-md-1">
-					<a href="#">
+					<a href="https://twitter.com/MonsieurFechner">
 					  	<span class="fa fa-twitter-square socialIcon"></span>
 					</a>
 				</div>
 				<div class="col-md-1">
-					<a href="#">
+					<a href="https://www.youtube.com/channel/UCW5FsBQvmqN9qy-7okjtDPw">
 					  	<span class="fa fa-youtube-square socialIcon"></span>
+					</a>
+				</div>
+				<div class="col-md-1">
+					<a href="https://plus.google.com/+JonathanFechner/posts">
+					  	<span class="fa fa-google-plus-square socialIcon"></span>
 					</a>
 				</div>
 			</div>

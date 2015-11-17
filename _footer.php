@@ -18,27 +18,27 @@
 		<div class="col-md-4">
 			<h3 class="text-center">Social</h3>
 			<div class="col-md-2">
-				<a href="#">
+				<a href="https://www.facebook.com/sitejonathanfechner">
 				  	<span class="fa fa-facebook-square socialIcon"></span>
 				</a>
 			</div>
 			<div class="col-md-2">
-				<a href="#">
+				<a href="https://www.linkedin.com/in/jonathan-fechner-17924b20">
 				  	<span class="fa fa-linkedin-square socialIcon"></span>
 				</a>
 			</div>
 			<div class="col-md-2">
-				<a href="#">
+				<a href="https://twitter.com/MonsieurFechner">
 				  	<span class="fa fa-twitter-square socialIcon"></span>
 				</a>
 			</div>
 			<div class="col-md-2">
-				<a href="#">
+				<a href="https://www.youtube.com/channel/UCW5FsBQvmqN9qy-7okjtDPw">
 				  	<span class="fa fa-youtube-square socialIcon"></span>
 				</a>
 			</div>
 			<div class="col-md-2">
-				<a href="#">
+				<a href="https://plus.google.com/+JonathanFechner/posts">
 				  	<span class="fa fa-google-plus-square socialIcon"></span>
 				</a>
 			</div>
@@ -53,3 +53,12 @@
 </div>
 <script type="text/javascript" src="lib/jquery-2.1.1.min.js"></script>
 <script type="text/javascript" src="lib/bootstrap/js/bootstrap.min.js"></script>
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-XXXXX-Y', 'auto');
+ga('send', 'pageview');
+</script>

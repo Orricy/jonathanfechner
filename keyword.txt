@@ -1,3 +1,5 @@
 utiliser :
 -seo google
 -referencement google
+-marketing
+-service

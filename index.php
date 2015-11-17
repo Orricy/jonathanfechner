@@ -105,7 +105,7 @@
 
 	<footer>
 		<?php
-			require 'footer.php';
+			require '_footer.php';
 		?>
 	</footer>
 </body>

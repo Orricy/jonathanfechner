@@ -4,6 +4,8 @@
 .topMargin {
   margin-top: 2%; }
 
+header h2 {
+  font-size: 1.5em; }
 header .socialIcon {
   color: grey;
   font-size: 4em;
