@@ -36,35 +36,62 @@
 	réseaux sociaux">
 	<!-- END Open Graph-->
 	<link rel="stylesheet" type="text/css" href="lib/bootstrap/css/bootstrap.min.css">
+	<link rel="stylesheet" type="text/css" href="#">
 	<link rel="stylesheet" type="text/css" href="css/style-competences.css">
 	
 </head>
 <body>
 	<header>
 		<?php
-			require 'header.php';
+			//require 'header.php';
 		?>
 	</header>
 	<main id="competences">
-		<div class="container-fluid title">
-			<div class="container">
-				<div class="row">
-					<div class="text-center"><h1>Prestations</h1></div>
+		<div class="container-fluid">
+				<div class="row  title">
+					<div class="container">
+						<div class="text-center"><h1>Prestations</h1></div>
+					</div>
 				</div>
-				<article class="competences-list">
-					<div class="col-sm-12">Gestion de projet</div>
-					<div class="col-sm-4"></div>
-					<div class="col-sm-4"></div>
-					<div class="col-sm-4"></div>
-					<div class="col-sm-4"></div>
-					<div class="col-sm-4"></div>
-					<div class="col-sm-4"></div>
-					<div class="col-sm-4"></div>
-					<div class="col-sm-4"></div>
-					<div class="col-sm-4"></div>
-					<div class="col-sm-4"></div>
-					<div class="col-sm-4"></div>
-				</article>
+
+				<div class="container">
+					<div class="prestations">
+						<div class="col-md-4">	
+							<div class="prestation text-center">
+								<h2>Site Web</h2>
+								<div class="caption">
+									<span><i class="fa fa-search-plus fa-3x"></i></span>
+								</div>
+							</div>
+							
+						</div>
+						<div class="col-md-4">	
+							<div class="prestation text-center">
+								<h2>SEO</h2>
+							</div>
+						</div>
+						<div class="col-md-4">
+							<div class="prestation text-center">
+								<h2>Vidéo</h2>
+							</div>
+						</div>
+						<div class="col-md-4">
+							<div class="prestation text-center">
+								<h2>3D</h2>
+							</div>
+						</div>
+						<div class="col-md-4">
+							<div class="prestation text-center">
+								<h2>Graphisme</h2>
+							</div>
+						</div>
+						<div class="col-md-4">
+							<div class="prestation text-center">
+								<h2>Propriété Intelectuelle</h2>
+							</div>
+						</div>
+					</div>
+				</div>
 			</div>
 		</div>
 	</main>
