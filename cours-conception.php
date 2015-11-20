@@ -47,7 +47,7 @@
 				<article class="row">
 					<h3 class="text-center">HTML et CSS les Bases du Web</h3>
 					<div class="col-md-5">
-						<img src="image/placeholder.png" alt="logo jonathan fechner" title="accueil" class="img-responsive">
+						<img src="image/image_preview.jpg" alt="logo jonathan fechner" title="accueil" class="img-responsive">
 					</div>
 					<div class="col-md-7">
 						<p>initiez vous à la conception de site web avec cette initiation HTML CSS. ces deux langages sont la colone vertebrale du web car tous les sites sont conçu avec HTML CSS. pour mieux comprendre, je vous invite à connaitre l'histoire trop peu connu de l'aventure internet qui remonte à 1969 !</p>

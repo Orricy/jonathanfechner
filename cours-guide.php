@@ -47,7 +47,7 @@
 				<article class="row">
 					<h3 class="text-center">Tout savoir pour utiliser un iPad</h3>
 					<div class="col-md-5">
-						<img src="image/placeholder.png" alt="logo jonathan fechner" title="accueil" class="img-responsive">
+						<img src="image/ipad_air_2_hands.jpg" alt="logo jonathan fechner" title="accueil" class="img-responsive">
 					</div>
 					<div class="col-md-7">
 						<p>l'iPad est un outil formidable. Apprenez tout sur l'iPad pour les débutants comme pour les confirmés.</p>

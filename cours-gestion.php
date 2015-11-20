@@ -47,7 +47,7 @@
 				<article class="row">
 					<h3 class="text-center">Initiation à la gestion de projet</h3>
 					<div class="col-md-5">
-						<img src="image/placeholder.png" alt="logo jonathan fechner" title="accueil" class="img-responsive">
+						<img src="image/gestion-de-projets-web.jpg" alt="logo jonathan fechner" title="accueil" class="img-responsive">
 					</div>
 					<div class="col-md-7">
 						<p>Vous avez votre premier projet multimédia à gérer et vous ne savez pas par où commencer. Pire encore, vous avez peut-être une équipe à guider. Apprenez les bases de la gestion de projet et initiez-vous aux outils comme le diagramme de Gantt et la méthode agile pour mesurer tout le chemin à parcourir pour emmener votre projet web au succès qu'il mérite.</p>
@@ -56,7 +56,7 @@
 				<article class="row">
 					<h3 class="text-center">Devenir Chef de Projet pour créer un site web</h3>
 					<div class="col-md-5">
-						<img src="image/placeholder.png" alt="logo jonathan fechner" title="accueil" class="img-responsive">
+						<img src="image/management-projet.jpg" alt="logo jonathan fechner" title="accueil" class="img-responsive">
 					</div>
 					<div class="col-md-7">
 						<p>C'est une sacré responsabilité d'être chef de projet. Vous êtes celui par lequel transite toutes les informations. Vous devez gérer le temps, l'argent et l'équipe et garantir le succès du projet. Apprenez les trucs et astuces pour être le chef de projet par excellence.</p>
@@ -65,7 +65,7 @@
 				<article class="row">
 					<h3 class="text-center">Cahier des charges et des spécifications</h3>
 					<div class="col-md-5">
-						<img src="image/placeholder.png" alt="logo jonathan fechner" title="accueil" class="img-responsive">
+						<img src="image/cahier-des-charges.jpg" alt="logo jonathan fechner" title="accueil" class="img-responsive">
 					</div>
 					<div class="col-md-7">
 						<p>Le cahier des charges et le document clé d'un projet. C'est l'accord entre vous et le client de ce qu'il attends et de vos engagement. c'est un élément à ne jamais négliger car c'est lui qui vous protège en cas de litige. il doit être signé par vous et le client avant tout commencement des prestations. vous trouverez ici un squelette de cahier des charges à completer.</p>
@@ -74,7 +74,7 @@
 				<article class="row">
 					<h3 class="text-center">La Relation avec le Client</h3>
 					<div class="col-md-5">
-						<img src="image/placeholder.png" alt="logo jonathan fechner" title="accueil" class="img-responsive">
+						<img src="image/meeting_client.jpg" alt="logo jonathan fechner" title="accueil" class="img-responsive">
 					</div>
 					<div class="col-md-7">
 						<p>Il est vital de comprendre que tout le monde ne réagit pas de la même manière, et l'une des principales qualités du Chef de Projet, c'est de s'adapter à toutes les situations; mais il doit aussi s'adapter aux gens, à l'humain. vous trouverez ici quelques éléments pour apprendre à mieux connaitre votre client mais aussi vos équipiers pour mieux communiquer.</p>
@@ -83,7 +83,7 @@
 				<article class="row">
 					<h3 class="text-center">Management et suivit de projet</h3>
 					<div class="col-md-5">
-						<img src="image/placeholder.png" alt="logo jonathan fechner" title="accueil" class="img-responsive">
+						<img src="image/management.jpg" alt="logo jonathan fechner" title="accueil" class="img-responsive">
 					</div>
 					<div class="col-md-7">
 						<p>Pendant un projet, il arrive que tout ne se passe pas comme prévu. Un membre de l'équipe peux tomber malade, ou des tensions peuvent exister au seins de l'équipe. Apprenez a optimiser votre équipe et à la rendre plus efficace grâce à la communication interne.</p>
@@ -92,7 +92,7 @@
 				<article class="row">
 					<h3 class="text-center">Valeur et rentabilité d'un projet</h3>
 					<div class="col-md-5">
-						<img src="image/placeholder.png" alt="logo jonathan fechner" title="accueil" class="img-responsive">
+						<img src="image/rentabilite.jpg" alt="logo jonathan fechner" title="accueil" class="img-responsive">
 					</div>
 					<div class="col-md-7">
 						<p>Pendant un projet, il arrive que tout ne se passe pas comme prévu. Un membre de l'équipe peux tomber malade, ou des tensions peuvent exister au seins de l'équipe. Apprenez a optimiser votre équipe et à la rendre plus efficace grâce à la communication interne.</p>
