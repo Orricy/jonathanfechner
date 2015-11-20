@@ -42,11 +42,9 @@
 	
 </head>
 <body>
-	<header>
-		<?php
-			require '_header.php';
-		?>
-	</header>
+	<?php
+		require '_header.php';
+	?>
 	<main id="competences">
 		<div class="container-fluid">
 				<div class="row  title">
@@ -107,11 +105,9 @@
 			</div>
 		</div>
 	</main>
-	<footer>
-		<?php 
-			require '_footer.php';
-		?>	
-	</footer>
+	<?php 
+		require '_footer.php';
+	?>	
 
 	<!-- Modals -->
 

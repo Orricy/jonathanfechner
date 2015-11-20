@@ -39,7 +39,7 @@
 </head>
 <body>
 	<?php require '_header.php';?>
-	<content>
+	<div class="content">
 		<div class="container">
 			<?php require 'cours-navbar.php'; ?>
 			<section class="col-md-10 col-md-offset-1">
@@ -106,7 +106,7 @@
 				</article>
 			</section>
 		</div>
-	</content>
+	</div>
 	<?php require '_footer.php';?>
 </body>
 </html>
