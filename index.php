@@ -39,7 +39,7 @@
 </head>
 <body>
 	<?php require '_header.php';?>
-	<content>
+	<div class="content">
 		<div class="container-fluid" id="containCarousel">
 			<div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
 			  	<!-- Indicators -->
@@ -103,7 +103,7 @@
 				</div>
 			</div>
 		</div>
-	</content>
+	</div>
 	<?php require '_footer.php';?>
 </body>
 </html>
