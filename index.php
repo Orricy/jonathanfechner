@@ -20,8 +20,8 @@
 	<!-- END Dublin Core -->
 	<!-- Referencement -->
 	<meta name="description" content="Site de Jonathan Fechner expert en referencement et positionnement de site internet">
-	<meta name="keywords" content="referencement google, strategie de positionnement, consultant, gestion de projet, ingénierie multimédia, expertise, site internet">
-	<meta name="author" content="Jonathan Fechner">
+	<meta name="keywords" content="referencement google, strategie de positionnement, consultant, gestion de projet, ingénierie multimédia, expertise, site internet, consultant referencement val d'oise, SEO, 95">
+	<meta name="author" content="Jonathan Fechner,">
 	<meta name="robots" content="index">
 	<meta name="Indentifier-URL" content="http://www.jonathanfechner.fr/">
 	<!-- END Référencement -->
