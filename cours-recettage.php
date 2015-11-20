@@ -51,6 +51,7 @@
 					</div>
 					<div class="col-md-7">
 						<p>Le recettage de projet web permet de verifier la conformité de votre projet, entre ce que vous avez vendu à votre client et ce que vous lui livrez. C'est la mémoire du projet, la recette de votre succès. C'est dans le cahier de recettage que vous expliquez tous les tests fonctionnels qui ont été réalisés et que vous validez point à point la demande du client. C'est pour cela que le recettage se conclut par le fâmeux "bon de livraison" signé par votre client.</p>
+						<a class=" col-md-6 col-md-offset-3 btn btn-info" href="http://www.jonathanfechner.fr/docs/Recettage.pdf" role="button">Documentation</a>
 					</div>
 				</article>
 			</section>
