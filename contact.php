@@ -45,21 +45,25 @@
 		?>
 	</header>
 	<content>
-		<form>
-		  <div class="form-group">
-		    <label for="exampleInputEmail1">Nom</label>
-		    <input type="text" class="form-control" id="exampleInputEmail1" placeholder="votre nom">
-		  </div>
-		  <div class="form-group">
-		    <label for="exampleInputEmail1">Email</label>
-		    <input type="email" class="form-control" id="exampleInputEmail1" placeholder="votre email">
-		  </div>
-		  <div class="form-group">
-		    <label for="exampleInputEmail1">Message</label>
-		    <input type="textarea" class="form-control" id="exampleInputEmail1" placeholder="votre message">
-		  </div>
-		  <button type="submit" class="btn btn-default">Envoyer</button>
-		</form>
+		<div class="container">
+			<div class="col-md-8 col-md-offset-2">
+				<form>
+				  <div class="form-group">
+				    <h3 class="text-center"><label for="exampleInputEmail1">Nom</label></h3>
+				    <input type="text" class="form-control" id="exampleInputEmail1" placeholder="votre nom">
+				  </div>
+				  <div class="form-group">
+				    <h3 class="text-center"><label for="exampleInputEmail1">Email</label></h3>
+				    <input type="email" class="form-control" id="exampleInputEmail1" placeholder="votre email">
+				  </div>
+				  <div class="form-group">
+				    <h3 class="text-center"><label for="exampleInputEmail1">Message</label></h3>
+				    <textarea class="form-control" id="exampleInputEmail1" placeholder="votre message" rows="3"></textarea>
+				  </div>
+				  <button type="submit" class="btn btn-default center-block"><h3>Envoyer</h3></button>
+				</form>
+			</div>
+		</div>
 	</content>
 	<footer>
 		<?php 
