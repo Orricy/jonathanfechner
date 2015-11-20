@@ -7,7 +7,7 @@
 	<meta charset="utf-8">
 	<meta name="DC.title" content="Jonathan Fechner">
 	<meta name="DC.creator" content="Jonathan Fechner">
-	<meta name="DC.subject" content="referencement google, strategie de positionnement, consultant, gestion de projet, ingénierie multimédia, expertise, site internet">
+	<meta name="DC.subject" content="referencement google, strategie de positionnement, consultant val d'oise, gestion de projet, ingénierie multimédia, expertise, site internet">
 	<meta name="DC.description" content="Site de Jonathan Fechner expert en referencement, positionnement de site internet et gestion de projet">
 	<meta name="DC.publisher" content="Damien Duvernois,Gauthier Flichy, Paul Dabin">
 	<meta name="DC.contributor" content="Shana Enkaoua, Rami El Khodry, Niki Gharabaghi">
@@ -20,8 +20,8 @@
 	<meta name="DC.rights" content="&copy; Jonathan Fechner">
 	<!-- END Dublin Core -->
 	<!-- Referencement -->
-	<meta name="description" content="Site de Jonathan Fechner expert en referencement et positionnement de site internet">
-	<meta name="keywords" content="referencement google, strategie de positionnement, consultant, gestion de projet, ingénierie multimédia, expertise, site internet, consultant referencement val d'oise, SEO, 95">
+	<meta name="description" content="Contactez Jonathan Fechner expert en referencement et positionnement de site internet dans le Val d'Oise">
+	<meta name="keywords" content="referencement google, strategie de positionnement, consultant val d'oise, gestion de projet, ingénierie multimédia, expertise, site internet, consultant referencement val d'oise, SEO, 95">
 	<meta name="author" content="Jonathan Fechner,">
 	<meta name="robots" content="index">
 	<meta name="Indentifier-URL" content="http://www.jonathanfechner.fr/">
@@ -32,7 +32,7 @@
 	<meta property="og:url" content="http://www.jonathanfechner.fr/">
 	<meta property="og:image" content="http://www.jonathanfechner.fr/img/logo-big.png">
 	<meta property="og:site_name" content="Jonathan Fechner - Contact">
-	<meta property="og:description" content="Jonathan Fechner expert en referencement et gestion de projet">
+	<meta property="og:description" content="Jonathan Fechner expert en referencement et gestion de projet dans le Val d'Oise">
 	<!-- END Open Graph-->
 	<link rel="stylesheet" type="text/css" href="lib/bootstrap/css/bootstrap.min.css">
 	<link rel="stylesheet" type="text/css" href="lib/font-awesome.min.css">

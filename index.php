@@ -6,8 +6,8 @@
 	<meta charset="utf-8">
 	<meta name="DC.title" content="Jonathan Fechner">
 	<meta name="DC.creator" content="Jonathan Fechner">
-	<meta name="DC.subject" content="referencement google, strategie de positionnement, consultant, gestion de projet, ingénierie multimédia, expertise, site internet">
-	<meta name="DC.description" content="Site de Jonathan Fechner expert en referencement, positionnement de site internet et gestion de projet">
+	<meta name="DC.subject" content="referencement google, strategie de positionnement, consultant val d'oise, gestion de projet, ingénierie multimédia, expertise, site internet">
+	<meta name="DC.description" content="Site de Jonathan Fechner expert en referencement, positionnement de site internet et gestion de projet dans le Vald'Oise">
 	<meta name="DC.publisher" content="Damien Duvernois,Gauthier Flichy, Paul Dabin">
 	<meta name="DC.contributor" content="Shana Enkaoua, Rami El Khodry, Niki Gharabaghi">
 	<meta name="DC.date" content="17/11/2015">
@@ -20,7 +20,7 @@
 	<!-- END Dublin Core -->
 	<!-- Referencement -->
 	<meta name="description" content="Site de Jonathan Fechner expert en referencement et positionnement de site internet en Val d'Oise">
-	<meta name="keywords" content="referencement google, strategie de positionnement, consultant, gestion de projet, ingénierie multimédia, expertise, site internet, consultant referencement val d'oise, SEO, 95">
+	<meta name="keywords" content="referencement google, strategie de positionnement, consultant val d'oise, gestion de projet, ingénierie multimédia, expertise, site internet, consultant referencement val d'oise, SEO, 95">
 	<meta name="author" content="Jonathan Fechner,">
 	<meta name="robots" content="index">
 	<meta name="Indentifier-URL" content="http://www.jonathanfechner.fr/">
