@@ -39,12 +39,10 @@
 	<link rel="stylesheet" type="text/css" href="css/style.css">
 </head>
 <body>
-	<header>
-		<?php
-			require '_header.php';
-		?>
-	</header>
-	<content>
+	<?php
+		require '_header.php';
+	?>
+	<div class="content">
 		<div id="no-margin" class="container-fluid">
 			<div class="title">
 				<div class="container">
@@ -60,22 +58,20 @@
 				    <input type="text" class="form-control" id="exampleInputEmail1" placeholder="votre nom">
 				  </div>
 				  <div class="form-group">
-				    <h3 class="text-center"><label for="exampleInputEmail1">Email</label></h3>
-				    <input type="email" class="form-control" id="exampleInputEmail1" placeholder="votre email">
+				    <h3 class="text-center"><label for="exampleInputEmail2">Email</label></h3>
+				    <input type="email" class="form-control" id="exampleInputEmail2" placeholder="votre email">
 				  </div>
 				  <div class="form-group">
-				    <h3 class="text-center"><label for="exampleInputEmail1">Message</label></h3>
-				    <textarea class="form-control" id="exampleInputEmail1" placeholder="votre message" rows="3"></textarea>
+				    <h3 class="text-center"><label for="exampleInputEmail3">Message</label></h3>
+				    <textarea class="form-control" id="exampleInputEmail3" placeholder="votre message" rows="3"></textarea>
 				  </div>
 				  <button type="submit" class="btn btn-default center-block"><h3>Envoyer</h3></button>
 				</form>
 			</div>
 		</div>
-	</content>
-	<footer>
-		<?php 
-			require '_footer.php';
-		?>	
-	</footer>
+	</div>
+	<?php 
+		require '_footer.php';
+	?>	
 </body>
 </html>

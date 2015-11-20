@@ -31,27 +31,27 @@ header {
   header .socialIcon:hover {
     color: #23DBBF; }
 
-content article {
+.content article {
   margin-bottom: 2%; }
-content .carousel-caption {
+.content .carousel-caption {
   background-color: rgba(0, 0, 0, 0.9);
   margin-left: 1%;
   margin-right: 1%;
   margin-bottom: 15%; }
-content p {
+.content p {
   line-height: 2em;
   font-size: 1.1em; }
-content #fullHeigth {
+.content #fullHeigth {
   margin-bottom: 9%; }
-content #no-margin {
+.content #no-margin {
   margin-bottom: 1%;
   margin-left: 0;
   margin-right: 0;
   padding: 0; }
-content .presentation {
+.content .presentation {
   margin-top: 2%;
   margin-bottom: 2%; }
-content .title {
+.content .title {
   background-color: #77EBDA; }
 
 footer {
