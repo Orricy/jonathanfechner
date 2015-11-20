@@ -18,12 +18,12 @@
 				</div>
 				<div class="col-md-1">
 					<a href="https://www.linkedin.com/in/jonathan-fechner-17924b20">
-					  	<img src="image/social-li.png" class="icone" alt="linkedin"/>
+					  	<img src="image/social-in.png" class="icone" alt="linkedin"/>
 					</a>
 				</div>
 				<div class="col-md-1">
 					<a href="https://twitter.com/MonsieurFechner">
-					  	<img src="image/"
+					  	<img src="image/twitter.png" class="icone" alt="twitter"/>
 					</a>
 				</div>
 				<div class="col-md-1">
