@@ -53,8 +53,8 @@
 			    	<div class="item active">
 			      		<img src="image/placeholder.png" class="carouselImg" alt="logo jonathan fechner" title="accueil">
 			      		<article class="carousel-caption">
-			        		<h2>aaaaaaaaaaaaa</h2>
-			        		<p class="text-left">Normally, both your asses would be dead as fucking fried chicken, but you happen to pull this shit while I'm in a transitional period so I don't wanna kill you, I wanna help you. But I can't give you this case, it don't belong to me. Besides, I've already been through too much shit this morning over this case to hand it over to your dumb ass.</p>
+			        		<h2>Vous voulez booster votre activé web?</h2>
+			        		<p class="text-left">Jonathan Fechner améliore votre visibilité sur google.</p>
 			      			<div class="col-md-4 col-md-offset-4">
 			      				<a class="btn btn-warning btn-block" href="#" role="button">Accueil</a>
 			      			</div>
@@ -63,8 +63,8 @@
 			    	<div class="item">
 			      		<img src="image/placeholder.png" class="carouselImg" alt="logo jonathan fechner" title="accueil">
 			      		<article class="carousel-caption">
-			        		<h2>aaaaaaaaaaaaa</h2>
-			        		<p class="text-left">Normally, both your asses would be dead as fucking fried chicken, but you happen to pull this shit while I'm in a transitional period so I don't wanna kill you, I wanna help you. But I can't give you this case, it don't belong to me. Besides, I've already been through too much shit this morning over this case to hand it over to your dumb ass.</p>
+			        		<h2>Besoin d'aide pour faire la transition numérique?</h2>
+			        		<p class="text-left">Depuis de nombreuses années, Jonathan vous forme.</p>
 			      			<div class="col-md-4 col-md-offset-4">
 			      				<a class="btn btn-warning btn-block" href="#" role="button">Accueil</a>
 			      			</div>
@@ -90,7 +90,7 @@
 						<img src="image/12247092_10153650647060211_1148802372300207183_n.jpg" alt="logo jonathan fechner" title="accueil" class="img-responsive">
 					</article>
 					<article class="col-md-8">
-						<h3>parcours professionnel</h3>
+						<h3>Parcours professionnel</h3>
 						<p>Jonathan Fechner est Consultant Indépendant Digital spécialiste des techniques de l'information et de la communication. Il trouve des solutions multimédia pour les entreprises. Son intervention sur vos projets et avant-projets permet de vous apporter des réponses claires, du cahier des charges fonctionnel au succès de l'opération.
 
 						Vous êtes une entreprise ou un porteur de projet, grâce à son réseau de plus de 200 professionnels reconnus, Jonathan Fechner peut constituer une équipe dédiée pour garantir le succès de votre projet. Opération de communication, création de site web, 3D, print, ou vidéo, faire appel à Jonathan Fechner c’est gagner un temps précieux et la certitude d’atteindre vos objectifs.</p>

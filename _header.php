@@ -13,27 +13,27 @@
 				</div>
 				<div class="col-md-1">
 					<a href="https://www.facebook.com/sitejonathanfechner">
-					  	<span class="fa fa-facebook-square socialIcon"></span>
+					  	<img src="image/social-fb.png" class="icone" alt="facebook"/>
 					</a>
 				</div>
 				<div class="col-md-1">
 					<a href="https://www.linkedin.com/in/jonathan-fechner-17924b20">
-					  	<span class="fa fa-linkedin-square socialIcon"></span>
+					  	<img src="image/social-li.png" class="icone" alt="linkedin"/>
 					</a>
 				</div>
 				<div class="col-md-1">
 					<a href="https://twitter.com/MonsieurFechner">
-					  	<span class="fa fa-twitter-square socialIcon"></span>
+					  	<img src="image/"
 					</a>
 				</div>
 				<div class="col-md-1">
 					<a href="https://www.youtube.com/channel/UCW5FsBQvmqN9qy-7okjtDPw">
-					  	<span class="fa fa-youtube-square socialIcon"></span>
+				    <img src="image/social-yt.png" class="icone" alt="youtube"/>
 					</a>
 				</div>
 				<div class="col-md-1">
 					<a href="https://plus.google.com/+JonathanFechner/posts">
-					  	<span class="fa fa-google-plus-square socialIcon"></span>
+					  	<img src="image/social-gg.png" class="icone" alt="google+"/>
 					</a>
 				</div>
 			</div>
