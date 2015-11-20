@@ -34,18 +34,36 @@
 	<meta property="og:site_name" content="Jonathan Fechner - Contact">
 	<meta property="og:description" content="Jonathan Fechner expert en referencement et gestion de projet">
 	<!-- END Open Graph-->
-	<link rel="stylesheet" type="text/css" href="lib/boostrap/css/boostrap.min.css">
-	
+	<link rel="stylesheet" type="text/css" href="lib/bootstrap/css/bootstrap.min.css">
+	<link rel="stylesheet" type="text/css" href="lib/font-awesome.min.css">
+	<link rel="stylesheet" type="text/css" href="css/style.css">
 </head>
 <body>
 	<header>
 		<?php
-			//require 'header.php';
+			require '_header.php';
 		?>
 	</header>
+	<content>
+		<form>
+		  <div class="form-group">
+		    <label for="exampleInputEmail1">Nom</label>
+		    <input type="text" class="form-control" id="exampleInputEmail1" placeholder="votre nom">
+		  </div>
+		  <div class="form-group">
+		    <label for="exampleInputEmail1">Email</label>
+		    <input type="email" class="form-control" id="exampleInputEmail1" placeholder="votre email">
+		  </div>
+		  <div class="form-group">
+		    <label for="exampleInputEmail1">Message</label>
+		    <input type="textarea" class="form-control" id="exampleInputEmail1" placeholder="votre message">
+		  </div>
+		  <button type="submit" class="btn btn-default">Envoyer</button>
+		</form>
+	</content>
 	<footer>
 		<?php 
-			//require 'footer.php';
+			require '_footer.php';
 		?>	
 	</footer>
 </body>

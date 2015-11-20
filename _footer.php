@@ -6,7 +6,7 @@
 					<h3 class="text-center">Contact</h3>
 					<h4 class="text-center"><strong>Jonathan Fechner</strong></h4>
 					<div class="col-md-8 col-md-offset-2">
-						<a class="btn btn-default btn-block" href="#" role="button">Contacter</a>
+						<a class="btn btn-default btn-block" href="contact.php" role="button">Contacter</a>
 					</div>
 					<!--<h4><li class="glyphicon glyphicon-phone"></li> 06.13.24.48.61</h4>
 					<h4><i class="glyphicon glyphicon-envelope"></i> contact@jonathanfechner.fr</h4>-->
