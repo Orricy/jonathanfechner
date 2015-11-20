@@ -87,7 +87,7 @@
 			<div class="row">
 				<div class="col-md-12 col-md-offset-0">
 					<article class="col-md-4">
-						<img src="image/placeholder.png" alt="logo jonathan fechner" title="accueil" class="img-responsive">
+						<img src="image/12247092_10153650647060211_1148802372300207183_n.jpg" alt="logo jonathan fechner" title="accueil" class="img-responsive">
 					</article>
 					<article class="col-md-8">
 						<h3>parcours professionnel</h3>

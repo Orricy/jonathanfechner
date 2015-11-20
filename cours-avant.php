@@ -47,28 +47,31 @@
 				<article class="row">
 					<h3 class="text-center">Conférence sur la créativité</h3>
 					<div class="col-md-5">
-						<img src="image/placeholder.png" alt="logo jonathan fechner" title="accueil" class="img-responsive">
+						<img src="image/creativite.jpg" alt="logo jonathan fechner" title="accueil" class="img-responsive">
 					</div>
 					<div class="col-md-7">
 						<p>Libérez-vous... apprenez a être créatif dans toutes les situations. Y compris sous pression ! comprenez les mécanismes de votre esprit, et développez votre potentiel créatif.</p>
+						<a class=" col-md-6 col-md-offset-3 btn btn-info" href="http://www.jonathanfechner.fr/docs/creativite_web" role="button">Documentation</a>
 					</div>
 				</article>
 				<article class="row">
 					<h3 class="text-center">Marketing et étude de Marchés</h3>
 					<div class="col-md-5">
-						<img src="image/placeholder.png" alt="logo jonathan fechner" title="accueil" class="img-responsive">
+						<img src="image/marketing.jpg" alt="logo jonathan fechner" title="accueil" class="img-responsive">
 					</div>
 					<div class="col-md-7">
 						<p>Avant de vous lancer a corp perdu dans votre projet, avez-vous analyser le marché sur lequel vous vous lancez ? avez-vous identifier vos concurrents ? vos forces et vos faiblesses ? vous trouverez ici les outils de base pour entreprendre en terrain connu.</p>
+						<a class=" col-md-6 col-md-offset-3 btn btn-info" href="http://www.jonathanfechner.fr/docs/Marketing_Etude_de_Marche.pdf" role="button">Documentation</a>
 					</div>
 				</article>
 				<article class="row">
 					<h3 class="text-center">Benchmark et conception web</h3>
 					<div class="col-md-5">
-						<img src="image/placeholder.png" alt="logo jonathan fechner" title="accueil" class="img-responsive">
+						<img src="image/benchmarking.jpg" alt="logo jonathan fechner" title="accueil" class="img-responsive">
 					</div>
 					<div class="col-md-7">
 						<p>Pour votre projet, vous avez identifier vos concurrents et vos clients, comprenez mieux votre marché grace à ces outils d'analyse. Quelles sont les technologies utilisés par vos concurrents, pourquoi votre cible préfère utiliser les services de tel ou tel concurrents. compilez ces information afin de fournir un projet de qualité à votre cible.</p>
+						<a class=" col-md-6 col-md-offset-3 btn btn-info" href="http://www.jonathanfechner.fr/docs/Benchmark_et_Conception_Web.pdf" role="button">Documentation</a>
 					</div>
 				</article>
 			</section>

@@ -65,5 +65,8 @@ footer {
 
 .footerContent {
   /*border-top: 2px solid darkgrey;*/ }
-
+.btn-info{
+  margin-top: 1%;
+  margin-bottom: 1%;
+}
 /*# sourceMappingURL=style.css.map */
