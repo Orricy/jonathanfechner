@@ -44,15 +44,30 @@
 	<content>
 		<div class="container-fluid">
         
-        <div class="col-md-8 col-md-offset-1">
+        <div class="col-md-10 col-md-offset-1">
                        
             <div class="row">
                 
-                <div id="cercle" class="col-md-offset-1" >
+                <div id="cercle" class="col-md-4 col-md-offset-1" >
                 
                     <p>
-                        sazfazvavaevaezsazfazvavae
+                        Le SEO (Search Engine Optimisation) nécessite des connaissances dans le domaine de la communication ainsi que dans celui du webmarketing. Pour cela, le consultant SEO optimise votre site dans le but d'améliorer le référencement de votre site sur les moteurs de recherche. Améliorer votre référencement sur Internet permettera d'augmenter votre nombre de visiteurs sur votre site internet et ainsi boostera 
+                        votre activité.
                     </p>
+                    
+                   
+                    
+                </div>
+                
+                
+                <div id="texte" class="col-md-5 col-md-offset-1">
+                	<h3> Mon process</h3>
+
+                    <div id="cercle_1" class="col-md-2" >1 - Comprendre votre objectif et vos attentes</div>
+                    <div id="cercle_2" class="col-md-2" >2 - Analyser le site existant et les concurrents</div>
+                    <img src="image/jonathan_fechner.jpg" class="photo" alt="photo de jonathan fechner" height =" 120px"/>
+                    <div id="cercle_3" class="col-md-2" >3 - Définir une stratégie de référencement</div>
+                    <div id="cercle_4" class="col-md-2" >4 - Appliquer la stratégie et obtenir votre satisfaction</div>
                     
                 </div>
                       
