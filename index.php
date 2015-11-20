@@ -19,7 +19,7 @@
 	<meta name="DC.rights" content="&copy; Jonathan Fechner">
 	<!-- END Dublin Core -->
 	<!-- Referencement -->
-	<meta name="description" content="Site de Jonathan Fechner expert en referencement et positionnement de site internet">
+	<meta name="description" content="Site de Jonathan Fechner expert en referencement et positionnement de site internet à Val D'Oise">
 	<meta name="keywords" content="referencement google, strategie de positionnement, consultant, gestion de projet, ingénierie multimédia, expertise, site internet">
 	<meta name="author" content="Jonathan Fechner">
 	<meta name="robots" content="index">
