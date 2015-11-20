@@ -51,22 +51,21 @@
 			  	<!-- Wrapper for slides -->
 			  	<div class="carousel-inner" role="listbox">
 			    	<div class="item active">
-			      		<img src="image/placeholder.png" class="carouselImg" alt="logo jonathan fechner" title="accueil">
+			      		<img src="image/Seo-2015.jpg" class="carouselImg" alt="logo jonathan fechner" title="accueil">
 			      		<article class="carousel-caption">
-			        		<h2>aaaaaaaaaaaaa</h2>
-			        		<p class="text-left">Normally, both your asses would be dead as fucking fried chicken, but you happen to pull this shit while I'm in a transitional period so I don't wanna kill you, I wanna help you. But I can't give you this case, it don't belong to me. Besides, I've already been through too much shit this morning over this case to hand it over to your dumb ass.</p>
+			        		<h2>Referencement</h2>
+			        		<!--<p class="text-left">Normally, both your asses would be dead as fucking fried chicken, but you happen to pull this shit while I'm in a transitional period so I don't wanna kill you, I wanna help you. But I can't give you this case, it don't belong to me. Besides, I've already been through too much shit this morning over this case to hand it over to your dumb ass.</p>-->
 			      			<div class="col-md-4 col-md-offset-4">
-			      				<a class="btn btn-warning btn-block" href="#" role="button">Accueil</a>
+			      				<a class="btn btn-info btn-block" href="consultant-seo.php" role="button">Referencement -SEO</a>
 			      			</div>
 			      		</article>
 			    	</div>
 			    	<div class="item">
-			      		<img src="image/placeholder.png" class="carouselImg" alt="logo jonathan fechner" title="accueil">
+			      		<img src="image/11596153-business-consulting-.jpg" class="carouselImg" alt="logo jonathan fechner" title="accueil">
 			      		<article class="carousel-caption">
-			        		<h2>aaaaaaaaaaaaa</h2>
-			        		<p class="text-left">Normally, both your asses would be dead as fucking fried chicken, but you happen to pull this shit while I'm in a transitional period so I don't wanna kill you, I wanna help you. But I can't give you this case, it don't belong to me. Besides, I've already been through too much shit this morning over this case to hand it over to your dumb ass.</p>
+			        		<h2>Conseils et intervention dans le Val d'Oise</h2>
 			      			<div class="col-md-4 col-md-offset-4">
-			      				<a class="btn btn-warning btn-block" href="#" role="button">Accueil</a>
+			      				<a class="btn btn-info btn-block" href="cours-avant.php" role="button">Documentation</a>
 			      			</div>
 			      		</article>
 			    	</div>
