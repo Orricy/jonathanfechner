@@ -89,7 +89,7 @@
 						<img src="image/12247092_10153650647060211_1148802372300207183_n.jpg" alt="logo jonathan fechner" title="accueil" class="img-responsive">
 					</article>
 					<article class="col-md-8">
-						<h3>parcours professionnel</h3>
+						<h3>Parcours professionnel</h3>
 						<p>Jonathan Fechner est Consultant Indépendant Digital spécialiste des techniques de l'information et de la communication. Il trouve des solutions multimédia pour les entreprises. Son intervention sur vos projets et avant-projets permet de vous apporter des réponses claires, du cahier des charges fonctionnel au succès de l'opération.
 
 						Vous êtes une entreprise ou un porteur de projet, grâce à son réseau de plus de 200 professionnels reconnus, Jonathan Fechner peut constituer une équipe dédiée pour garantir le succès de votre projet. Opération de communication, création de site web, 3D, print, ou vidéo, faire appel à Jonathan Fechner c’est gagner un temps précieux et la certitude d’atteindre vos objectifs.</p>
