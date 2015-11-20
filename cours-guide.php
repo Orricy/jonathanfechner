@@ -47,10 +47,11 @@
 				<article class="row">
 					<h3 class="text-center">Tout savoir pour utiliser un iPad</h3>
 					<div class="col-md-5">
-						<img src="image/placeholder.png" alt="logo jonathan fechner" title="accueil" class="img-responsive">
+						<img src="image/ipad_air_2_hands.jpg" alt="logo jonathan fechner" title="accueil" class="img-responsive">
 					</div>
 					<div class="col-md-7">
 						<p>l'iPad est un outil formidable. Apprenez tout sur l'iPad pour les débutants comme pour les confirmés.</p>
+						<a class=" col-md-6 col-md-offset-3 btn btn-info" href="http://www.jonathanfechner.fr/docs/Formation_iPad.pdf" role="button">Documentation</a>
 					</div>
 				</article>
 			</section>
