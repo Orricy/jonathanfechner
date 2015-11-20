@@ -6,8 +6,8 @@
 	<meta charset="utf-8">
 	<meta name="DC.title" content="Jonathan Fechner">
 	<meta name="DC.creator" content="Jonathan Fechner">
-	<meta name="DC.subject" content="referencement google, strategie de positionnement, consultant, gestion de projet, ingénierie multimédia, expertise, site internet">
-	<meta name="DC.description" content="Site de Jonathan Fechner expert en referencement, positionnement de site internet et gestion de projet">
+	<meta name="DC.subject" content="referencement google, strategie de positionnement, consultant val d'oise, gestion de projet, ingénierie multimédia, expertise, site internet">
+	<meta name="DC.description" content="Site de Jonathan Fechner expert en referencement, positionnement de site internet et gestion de projet dans le Vald'Oise">
 	<meta name="DC.publisher" content="Damien Duvernois,Gauthier Flichy, Paul Dabin">
 	<meta name="DC.contributor" content="Shana Enkaoua, Rami El Khodry, Niki Gharabaghi">
 	<meta name="DC.date" content="17/11/2015">
@@ -19,8 +19,8 @@
 	<meta name="DC.rights" content="&copy; Jonathan Fechner">
 	<!-- END Dublin Core -->
 	<!-- Referencement -->
-	<meta name="description" content="Site de Jonathan Fechner expert en referencement et positionnement de site internet">
-	<meta name="keywords" content="referencement google, strategie de positionnement, consultant, gestion de projet, ingénierie multimédia, expertise, site internet, consultant referencement val d'oise, SEO, 95">
+	<meta name="description" content="Site de Jonathan Fechner expert en referencement et positionnement de site internet en Val d'Oise">
+	<meta name="keywords" content="referencement google, strategie de positionnement, consultant val d'oise, gestion de projet, ingénierie multimédia, expertise, site internet, consultant referencement val d'oise, SEO, 95">
 	<meta name="author" content="Jonathan Fechner,">
 	<meta name="robots" content="index">
 	<meta name="Indentifier-URL" content="http://www.jonathanfechner.fr/">
@@ -51,22 +51,27 @@
 			  	<!-- Wrapper for slides -->
 			  	<div class="carousel-inner" role="listbox">
 			    	<div class="item active">
-			      		<img src="image/placeholder.png" class="carouselImg" alt="logo jonathan fechner" title="accueil">
+			      		<img src="image/Seo-2015.jpg" class="carouselImg" alt="logo jonathan fechner" title="accueil">
 			      		<article class="carousel-caption">
+
 			        		<h2>Vous voulez booster votre activé web?</h2>
 			        		<p class="text-left">Jonathan Fechner améliore votre visibilité sur google.</p>
+        		<h2>Referencement</h2>
 			      			<div class="col-md-4 col-md-offset-4">
-			      				<a class="btn btn-warning btn-block" href="#" role="button">Accueil</a>
+			      				<a class="btn btn-info btn-block" href="consultant-seo.php" role="button">Referencement -SEO</a>
 			      			</div>
 			      		</article>
 			    	</div>
 			    	<div class="item">
-			      		<img src="image/placeholder.png" class="carouselImg" alt="logo jonathan fechner" title="accueil">
+			      		<img src="image/11596153-business-consulting-.jpg" class="carouselImg" alt="logo jonathan fechner" title="accueil">
 			      		<article class="carousel-caption">
+
 			        		<h2>Besoin d'aide pour faire la transition numérique?</h2>
 			        		<p class="text-left">Depuis de nombreuses années, Jonathan vous forme.</p>
+			        		<h2>Conseils et intervention dans le Val d'Oise</h2>
+
 			      			<div class="col-md-4 col-md-offset-4">
-			      				<a class="btn btn-warning btn-block" href="#" role="button">Accueil</a>
+			      				<a class="btn btn-info btn-block" href="cours-avant.php" role="button">Documentation</a>
 			      			</div>
 			      		</article>
 			    	</div>

@@ -52,7 +52,7 @@
 				<a class="btn btn-default btn-block" href="cours-avant.php" role="button">Cours</a>
 			</div>
 			<div class="col-md-2">
-				<a class="btn btn-default btn-block" href="#" role="button">Contact</a>
+				<a class="btn btn-default btn-block" href="contact.php" role="button">Contact</a>
 			</div>
 		</div>
 	</div>
