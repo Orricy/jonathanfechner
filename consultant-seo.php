@@ -30,7 +30,7 @@
 	<meta property="og:type" content="website">
 	<meta property="og:url" content="http://www.jonathanfechner.fr/">
 	<meta property="og:image" content="http://www.jonathanfechner.fr/img/logo-big.png">
-	<meta property="og:site_name" content="Jonathan Fechner - Accueil">
+	<meta property="og:site_name" content="Jonathan Fechner - Consultant SEO">
 	<meta property="og:description" content="Jonathan Fechner expert en referencement et gestion de projet">
 	<!-- END Open Graph-->
 	<link rel="stylesheet" type="text/css" href="lib/bootstrap/css/bootstrap.min.css">
@@ -64,7 +64,6 @@
 
                     <div id="cercle_1" class="col-md-2" >1 - Comprendre votre objectif et vos attentes</div>
                     <div id="cercle_2" class="col-md-2" >2 - Analyser le site existant et les concurrents</div>
-                    <img src="image/jonathan_fechner.jpg" class="photo" alt="photo de jonathan fechner" height =" 120px"/>
                     <div id="cercle_3" class="col-md-2" >3 - Définir une stratégie de référencement</div>
                     <div id="cercle_4" class="col-md-2" >4 - Appliquer la stratégie et obtenir votre satisfaction</div>
                     
