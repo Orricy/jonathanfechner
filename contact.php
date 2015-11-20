@@ -45,6 +45,13 @@
 		?>
 	</header>
 	<content>
+		<div id="no-margin" class="container-fluid">
+			<div class="title">
+				<div class="container">
+					<div class="text-center"><h2>Contact</h2></div>
+				</div>
+			</div>
+		</div>
 		<div class="container">
 			<div class="col-md-8 col-md-offset-2">
 				<form>

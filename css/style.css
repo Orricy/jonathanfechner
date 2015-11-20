@@ -35,9 +35,16 @@ content article {
   margin-bottom: 2%; }
 content #fullHeigth {
   margin-bottom: 9%; }
+content #no-margin {
+  margin-bottom: 1%;
+  margin-left: 0;
+  margin-right: 0;
+  padding: 0; }
 content .presentation {
   margin-top: 2%;
   margin-bottom: 2%; }
+content .title {
+  background-color: #77EBDA; }
 
 footer {
   margin-top: 3.1%;
